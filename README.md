@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Web Sockets**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-personal-pied.vercel.app/](https://portfolio-personal-pied.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-personal-pied.vercel.app/](https://rajshree-nupur-portfolio.netlify.app/)
 
 - 💬 Ask me about **React,NodeJs,ExpressJs,MongoDB,Next.js**
 
 - 📫 How to reach me **rajshreenupur9835@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/g0h0rgd8st](https://flowcv.com/resume/g0h0rgd8st)
+- 📄 Know about my experiences [https://flowcv.com/resume/g0h0rgd8st](https://drive.google.com/file/d/1xVmWYjISRzl95d8ravx_ND-QraefBLiC/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can type 120 words per minute**
 
