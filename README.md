@@ -18,7 +18,7 @@
 - **[Education]** B.Tech Computer Science - Chandigarh University (2019-2023, Grade: 7.6)
 - **[Location]** Based in Hyderabad, Telangana, India
 - **[Blog]** I write about Docker, WebSockets, LLMs, SQL vs NoSQL on LinkedIn & Medium
-- **[Resume]** [View here](https://flowcv.com/resume/g0h0rgd8st)
+- **[Resume]** [View here](https://drive.google.com/file/d/1c3RaN9k391GCNPRcAr0Vqa7HFMH_RSdY/view?usp=sharing)
 
 ---
 
