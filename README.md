@@ -12,10 +12,10 @@
 
 ## About Me
 
-- **[Work]** Software Developer @ Good Health Company — Building full-stack features with React, Next.js, TypeScript & Node.js; also working on Shopify integrations and GenAI/LLM features
-- **[AI]** Exploring GenAI & LLMs — implemented RAG pipelines, embeddings, vector stores; worked with GPT, Claude, Gemini, LLaMA & Mistral
-- **[Shopify]** Shopify development — building apps, Liquid templates & theme integrations
-- **[Education]** B.Tech Computer Science — Chandigarh University (2019–2023, Grade: 7.6)
+- **[Work]** Software Developer @ Good Health Company - Building full-stack features with React, Next.js, TypeScript & Node.js; also working on Shopify integrations and GenAI/LLM features
+- **[AI]** Exploring GenAI & LLMs - implemented RAG pipelines, embeddings, vector stores; worked with GPT, Claude, Gemini, LLaMA & Mistral
+- **[Shopify]** Shopify development - building apps, Liquid templates & theme integrations
+- **[Education]** B.Tech Computer Science - Chandigarh University (2019-2023, Grade: 7.6)
 - **[Location]** Based in Hyderabad, Telangana, India
 - **[Blog]** I write about Docker, WebSockets, LLMs, SQL vs NoSQL on LinkedIn & Medium
 - **[Resume]** [View here](https://flowcv.com/resume/g0h0rgd8st)
@@ -26,11 +26,11 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software Developer | Good Health Company | Jun 2025 – Present |
-| Software Engineer | Eminence Technology | Apr 2024 – Jun 2025 |
-| SDE1 Trainee (Intern) | HashedIn by Deloitte | Dec 2023 – Feb 2024 |
-| Subject Matter Expert | Chegg Inc. | Apr 2023 – Apr 2024 |
-| Software Engineer | HighRadius | Dec 2022 – Nov 2023 |
+| Software Developer | Good Health Company | Jun 2025 - Present |
+| Software Engineer | Eminence Technology | Apr 2024 - Jun 2025 |
+| SDE1 Trainee (Intern) | HashedIn by Deloitte | Dec 2023 - Feb 2024 |
+| Subject Matter Expert | Chegg Inc. | Apr 2023 - Apr 2024 |
+| Software Engineer | HighRadius | Dec 2022 - Nov 2023 |
 
 ---
 
